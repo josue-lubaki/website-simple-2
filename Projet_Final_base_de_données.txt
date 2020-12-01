@@ -1,0 +1,59 @@
+Les aliments à viande
+1 . 
+	* Name : Boulette de viande
+	* Description : Faites de viande de veau, de crème et de muscade, ces boulettes sont idéales pour un apéritif chic
+	* Adresse du lien : https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_902,y_692,w_3813,h_2145,c_crop/w_836,h_470,c_scale/v1537820678/foodlavie/prod/articles/top-boulettes-de-viande-preferees-des-enfants-df8f8bad
+2.
+	* Name : Ropa Vieja
+	* Description : Ce plat créole se compose de viande de bœuf filamenteuse longuement cuite dans un bouillon spécial
+	* Adresse du lien : http://www.cuba-en-liberte.com/app/media/10/files/2016/07/La-viande-de-crocodile.jpg
+3.
+	* Name : Le Pain de Viande
+	* Description : Le pain de viande, certains en raffolent et l'ajoutent dès que possible au menu
+	* Adresse du lien : https://storage-cube.quebecormedia.com/v1/dynamic_resize?quality=75&size=1500x1500&src=http%3A%2F%2Fstorage-cube.quebecormedia.com%2Fv1%2Frqc_prod%2Frecettes_du_quebec%2Fb824d6c6aa80a3d682ddd2cea7fd69978109068a%2FLe%20pain%20de%20viande-825.jpg
+
+Les Mets Végétariens
+
+1.
+	* Name : Tofu à l'orange et au sésame avec brocoli
+	* Description : Il constitue un succulent repas végétarien pour quatre personnes qui se prépare en moins d'une heure.
+	* Adresse du lien : https://s3.amazonaws.com/gmi-digital-library/2b5779b1-6789-43ed-85bf-bb6d5698198b.jpg
+2.
+	* Name : Bol du Bouddha
+	* Description : Santé, frais, coloré et nutritif, ce bol mérite une place dans votre menu de semaine
+	* Adresse du lien : https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_0,y_174,w_3333,h_1875,c_crop/w_836,h_470,c_scale/v1542997653/foodlavie/prod/articles/top-recettes-vegetariennes-faciles-aux-lentilles-ea080cf6
+3.
+	* Name : Sloppy Jack
+	* Description : cette recette ne vous prendra que 25 minutes, préparation et cuisson incluses, idéal pour combler les appétits pressés en semaine.
+	* Adresse du lien : https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_0,y_730,w_4160,h_2340,c_crop/w_836,h_470,c_scale/v1542991981/foodlavie/prod/articles/top-recettes-vegetariennes-faciles-aux-lentilles-201a0936
+4.
+	* Name : Salade de farro aux légumes printaniers
+	* Description : Cette délicieuse salade de farro est assaisonnée d'une vinaigrette à la moutarde en grains et au miel.
+	* Adresse du lien : https://www.selection.ca/wp-content/uploads/sites/15/2016/04/salade-farro-recette.jpg
+5.
+	* Name : Poivrons farcis au couscous
+	* Description : Les pois chiches renferment des fibres qui diminuent l'appétit. C'est pourquoi ce plat rassasie bien qu'il ne contienne que peu de calories.
+	* Adresse du lien : https://www.selection.ca/wp-content/uploads/sites/15/2018/05/recette-vegetarienne-poivron-farcis-couscous-1024x768.jpg
+
+Les MalBouffes
+
+1.
+	* Name : Pizza aux 3 fromages
+	* Description : Pizza Mozarella Badigeonné à la pâte de sauce tomate.
+	* Adresse du lien : https://s3.amazonaws.com/medias.recettesdici.com/recettes-photos/p/pizza-aux-3-fromages/pizza-aux-3-fromages-1.jpg
+2.
+	* Name : Hamburger Hot Dogs
+	* Description : Les hot-dogs hamburger sont une variante amusante d'une recette traditionnelle. Le boeuf haché est assaisonné et formé en forme de hot-dog, puis servi dans des petits pains à hot-dog.
+	* Adresse du lien : https://www.thespruceeats.com/thmb/IVEwZUNTa5XGDFhGtbF8iFaxn3I=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hamburger-Hot-Dog-58add5f03df78c345bdef6ff.jpg
+3.
+	* Name : Poulet effiloché à la mijoteuse
+	* Description : Une sauce barbecue piquante faite maison rend ce poulet râpé savoureux et juteux. Servir le poulet sur des petits pains grillés avec salade de chou et  fèves au lard , accompagnés de cornichons à l'aneth et de vos accompagnements préférés pour le barbecue.
+	* Adresse du lien : https://www.thespruceeats.com/thmb/P_-ysfUl7pbwRgX5o8nqT-FDzfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slow-cooker-pulled-chicken-3054727-9-5b3f90ac46e0fb00378aacf3.jpg
+4. 
+	* Name : Gratin de rigatonis, sauce puttanesca à la saucisse
+	* Description : Pratiques, les plats tout-en-un! Et si la recette est à base de pâtes gratinées au four, c'est du plaisir garanti pour la tablée au moment du souper. La sauce à la viande, relevée à la mode italienne, ajoute du piquant dans l'assiette.
+	* Adresse du lien : https://cdn.pratico-pratiques.com/app/uploads/sites/3/2018/08/20182951/gratin-de-rigatonis-sauce-puttanesca-a-la-saucisse-1.jpeg
+5.
+	* Name : La Poutine
+	* Description : La poutine est un plat québécois à base de frites agrémentées de fromage en grains et de sauce. La poutine se retrouve partout, des restaurants les plus chics aux restaurants rapides, notamment McDonald’s et Burger King. Elle est un symbole incontestable de la cuisine et de la culture québécoise.
+	* Adresse du lien : https://imgcdn.circulaire-en-ligne.ca/wp-content/uploads/la-meilleure-sauce-a-poutine.jpg

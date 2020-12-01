@@ -1,0 +1,136 @@
+﻿@page
+@model IndexRecipe
+@{
+    ViewData["Title"] = "Accueil";
+}
+
+<div>
+    <a asp-page="/YouTube/Index">Films</a>
+</div>
+
+
+<div><a asp-page="Personnel">Personnel</a></div>
+
+
+
+<div class="text-center">
+    <div id="carouselExampleControls_1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            @{
+                var first = true;
+
+            }
+            <h2>Repas avec de la viande</h2>
+            @foreach (var item in Model.Recipe)
+            {
+
+                if (item.Categorie == 1)
+                {
+
+                    <div class="carousel-item @(first ? Html.Raw("active") : Html.Raw(""))">
+                        <img class="d-block w-100" src="@item.Image" alt="@item.Name">
+                        <div class="carousel-caption">
+                            <h3>@item.Name</h3>
+                            <p>@item.Description</p>
+
+                        </div>
+                    </div>
+                    first = false;
+                }
+
+
+            }
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls_1" role="button"
+           data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls_1" role="button"
+           data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+<br />
+<div class="text-center">
+    <div id="carouselExampleControls_2" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            @{
+                
+                first = true;
+
+            }
+            <h2>Les Mets Végétariens</h2>
+            @foreach (var item in Model.Recipe)
+            {
+
+                if (item.Categorie == 2)
+                {
+
+                    <div class="carousel-item @(first ? Html.Raw("active") : Html.Raw(""))">
+                        <img class="d-block w-100" src="@item.Image" alt="@item.Name">
+                        <div class="carousel-caption">
+                            <h3>@item.Name</h3>
+                            <p>@item.Description</p>
+
+                        </div>
+                    </div>
+                    first = false;
+                }
+
+            }
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls_2" role="button"
+           data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls_2" role="button"
+           data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
+<br />
+<div class="text-center">
+    <div id="carouselExampleControls_3" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            @{
+                first = true;
+               
+            }
+            <h2>MalBouffes</h2>
+            @foreach (var item in Model.Recipe)
+            {
+
+                if (item.Categorie == 3)
+                {
+
+                    <div class="carousel-item @(first ? Html.Raw("active") : Html.Raw(""))">
+                        <img class="d-block w-100" src="@item.Image" alt="@item.Name">
+                        <div class="carousel-caption">
+                            <h3>@item.Name</h3>
+                            <p>@item.Description</p>
+
+                        </div>
+                    </div>
+                    first = false;
+                }
+
+            }
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls_3" role="button"
+           data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls_3" role="button"
+           data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
